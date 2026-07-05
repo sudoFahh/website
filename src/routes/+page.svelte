@@ -34,6 +34,10 @@
 	});
 </script>
 
+<svelte:head>
+	<title>this is the website of {quote}</title>
+</svelte:head>
+
 <main class="min-h-screen flex flex-col items-center justify-center text-center p-4 text-white">
 	<h2 class="text-xl font-[Instrument_Serif]">hi, im</h2>
 	<span class="block mb-1 h-8 overflow-hidden">
