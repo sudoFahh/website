@@ -14,9 +14,15 @@
 			bla (i have wayy too many interest for my own good 😭 help me)
 		</p>
 		<div class="mx-auto text-left mt-2 text-[12px]">
-			<a href="/" class="italic hover:underline text-[#8FBB99] font-[Jetbrains_Mono]"
-				>abh aur kya janna h, bhaag jao</a
-			>
+			<p class="text-[#8FBB99] font-[Jetbrains_Mono]">abh aur kya janna h, bhaag jao</p>
 		</div>
+	</div>
+	<div class="mt-6 flex gap-4 font-[Jetbrains_Mono]">
+		<a class="italic hover:underline text-[#8FBB99]" href="/">/</a>
+		<a class="font-bold italic hover:underline text-[#8FBB99]" href="/about">/about</a>
+		<a class="italic hover:underline text-[#8FBB99]" href="/blog">/blog</a>
+		<a class="italic hover:underline text-[#8FBB99]" href="/projects">/projects</a>
+		<a class="italic hover:underline text-[#8FBB99]" href="/webrings">sillies</a>
+		<a class="italic hover:underline text-[#8FBB99]" href="/misc">/misc</a>
 	</div>
 </main>
