@@ -86,6 +86,7 @@
 			class="italic hover:underline text-[#8FBB99]"
 			href="https://www.instagram.com/m4shing_sm4shing/">ig</a
 		>
+		<a class="italic hover:underline text-[#8FBB99]" href="mailto:m4.sh@tuta.io"> email </a>
 		<a
 			class="italic hover:underline text-[#8FBB99]"
 			href="https://www.linkedin.com/in/manik-sharma-30b4a9419/">linkedin</a
@@ -105,6 +106,14 @@
 			href="https://www.youtube.com/watch?v=3eD4CrAmwNk"
 			target="_blank"
 			class="italic hover:underline text-[#8FBB99]">click here</a
+		>
+		or
+		<a
+			href="https://open.spotify.com/track/5rUFgYSgfDajlankhu3Kld?si=e2105c0d36904c19"
+			target="_blank"
+			class="italic hover:underline text-[#8FBB99]"
+		>
+			here</a
 		>
 	</p>
 </main>
