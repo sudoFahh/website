@@ -78,7 +78,7 @@
 		<a href="https://archive.org"><img src="internet archive.gif" alt="Internet Archive." /></a>
 		<a href="https://face.dev"><img src="matrix.png" alt="Wake up, Neo..." /></a>
 		<a href="https://notbyai.fyi/"
-			><img src="/Scripted-By-a-Human-Not-By-AI-Badge-black.png" alt="Scripted by a human" /></a
+			><img src="Scripted-By-a-Human-Not-By-AI-Badge-black.png" alt="Scripted by a human" /></a
 		>
 		<a href="https://www.mabsland.com/Adoption.html">
 			<img
