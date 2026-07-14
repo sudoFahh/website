@@ -55,63 +55,48 @@
 		<p>i do a lot of random stuff. im (currently) a 14 year old student.</p>
 		<p class="text-[10px] font-[Jetbrains_Mono]">
 			im part of my schools tech club (well 2 of them), <a
-				class="italic hover:underline text-[#8FBB99]"
+				class="link"
 				href="https://robonexus46.vercel.app/">robonexus</a
 			>
 			and
-			<a class="italic hover:underline text-[#8FBB99]" href="https://techsyndicate.us"
-				>tech syndicate</a
-			>
+			<a class="link" href="https://techsyndicate.us">tech syndicate</a>
 		</p>
 	</div>
 
 	<!-- deez are website links -->
 	<div class="mt-6 flex gap-4 font-[Jetbrains_Mono]">
-		<a class="font-bold italic hover:underline text-[#8FBB99]" href="/">/</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/about">/about</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/blog">/blog</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/projects">/projects</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/webrings">sillies</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/misc">/misc</a>
+		<a class="font-bold link" href="/">/</a>
+		<a class="link" href="/about">/about</a>
+		<a class="link" href="/blog">/blog</a>
+		<a class="link" href="/projects">/projects</a>
+		<a class="link" href="/webrings">sillies</a>
+		<a class="link" href="/misc">/misc</a>
 	</div>
 
 	<!-- deez are other links -->
 	<div class="mt-6 flex gap-4 font-[Jetbrains_Mono]">
-		<a class="italic hover:underline text-[#8FBB99]" href="https://github.com/sudofahh">github</a>
-		<a
-			class="italic hover:underline text-[#8FBB99]"
-			href="https://www.youtube.com/@m4shing_sm4shing">yt</a
-		>
-		<a
-			class="italic hover:underline text-[#8FBB99]"
-			href="https://www.instagram.com/m4shing_sm4shing/">ig</a
-		>
-		<a class="italic hover:underline text-[#8FBB99]" href="mailto:m4.sh@tuta.io"> email </a>
-		<a
-			class="italic hover:underline text-[#8FBB99]"
-			href="https://www.linkedin.com/in/manik-sharma-30b4a9419/">linkedin</a
-		>
-		<a class="italic hover:underline text-[#8FBB99]" href="https://vncl.xyz">""company"" website</a>
+		<a class="link" href="https://github.com/sudofahh">github</a>
+		<a class="link" href="https://www.youtube.com/@m4shing_sm4shing">yt</a>
+		<a class="link" href="https://www.instagram.com/m4shing_sm4shing/">ig</a>
+		<a class="link" href="mailto:m4.sh@tuta.io"> email </a>
+		<a class="link" href="https://www.linkedin.com/in/manik-sharma-30b4a9419/">linkedin</a>
+		<a class="link" href="https://vncl.xyz">""company"" website</a>
 	</div>
 	<p class="text-xs font-[Jetbrains_Mono]">
-		my links are also available @ <a
-			class="italic hover:underline text-[#8FBB99]"
-			href="https://links.maniksharma.xyz">https://links.maniksharma.xyz</a
+		my links are also available @ <a class="link" href="https://links.maniksharma.xyz"
+			>https://links.maniksharma.xyz</a
 		>
 	</p>
 	<br />
 	<p class="text-[9px] font-[Jetbrains_Mono]">
 		<span class="italic">psst</span> want to listen to a banger song?
-		<a
-			href="https://www.youtube.com/watch?v=3eD4CrAmwNk"
-			target="_blank"
-			class="italic hover:underline text-[#8FBB99]">click here</a
+		<a href="https://www.youtube.com/watch?v=3eD4CrAmwNk" target="_blank" class="link">click here</a
 		>
 		or
 		<a
 			href="https://open.spotify.com/track/5rUFgYSgfDajlankhu3Kld?si=e2105c0d36904c19"
 			target="_blank"
-			class="italic hover:underline text-[#8FBB99]"
+			class="link"
 		>
 			here</a
 		>

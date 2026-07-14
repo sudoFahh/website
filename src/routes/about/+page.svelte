@@ -18,11 +18,11 @@
 		</div>
 	</div>
 	<div class="mt-6 flex gap-4 font-[Jetbrains_Mono]">
-		<a class="italic hover:underline text-[#8FBB99]" href="/">/</a>
-		<a class="font-bold italic hover:underline text-[#8FBB99]" href="/about">/about</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/blog">/blog</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/projects">/projects</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/webrings">sillies</a>
-		<a class="italic hover:underline text-[#8FBB99]" href="/misc">/misc</a>
+		<a class="link" href="/">/</a>
+		<a class="font-bold link" href="/about">/about</a>
+		<a class="link" href="/blog">/blog</a>
+		<a class="link" href="/projects">/projects</a>
+		<a class="link" href="/webrings">sillies</a>
+		<a class="link" href="/misc">/misc</a>
 	</div>
 </main>

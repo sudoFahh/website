@@ -6,24 +6,11 @@
 	<h2 class="text-2xl font-[Instrument_Serif] text-[#81E979]">hi gng (blog)</h2>
 	<div class="w-[30%] mt-5">
 		<p>blog</p>
-		<a
-			href="/posts/why-ai-is-good-but-bad.txt"
-			class="italic hover:underline text-[#8FBB99] font-[Jetbrains_Mono]">first post</a
-		>
+		<a href="/posts/why-ai-is-good-but-bad.txt" class="link">first post</a>
 		<br />
-		<a
-			href="/posts/me-yapping-about-vehicles.txt"
-			class="italic hover:underline text-[#8FBB99] font-[Jetbrains_Mono]"
-		>
-			second post</a
-		>
+		<a href="/posts/me-yapping-about-vehicles.txt" class="link"> second post</a>
 		<br />
-		<a
-			href="/posts/poem-about-a-stray.txt"
-			class="italic hover:underline text-[#8FBB99] font-[Jetbrains_Mono]"
-		>
-			third post</a
-		>
+		<a href="/posts/poem-about-a-stray.txt" class="link"> third post</a>
 	</div>
 	<p>btw these may/may not remain .txt files</p>
 	<div class="mt-6 flex gap-4 font-[Jetbrains_Mono]">
