@@ -90,7 +90,8 @@
 	<br />
 	<p class="text-[9px] font-[Jetbrains_Mono]">
 		<span class="italic">psst</span> want to listen to a banger song?
-		<a href="https://www.youtube.com/watch?v=3eD4CrAmwNk" target="_blank" class="link">click here</a
+		<a href="https://www.youtube.com/watch?v=3eD4CrAmwNk" target="_blank" class="link"
+			>click here (creep x call me maybe)</a
 		>
 		or
 		<a
@@ -98,7 +99,13 @@
 			target="_blank"
 			class="link"
 		>
-			here</a
+			here (all mine)</a
+		>
+		or
+		<a
+			href="https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6?si=b346bd012bea4270"
+			target="_blank"
+			class="link">here (me gustas tu)</a
 		>
 	</p>
 </main>
